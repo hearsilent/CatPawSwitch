@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="640dp"
+    android:height="155dp"
+    android:viewportWidth="640"
+    android:viewportHeight="155">
+    <path
+        android:name="elbow"
+        android:pathData="M531.5,82C559.5,91 449,122 405.5,102.5"
+        android:strokeWidth="80"
+        android:strokeColor="#555555"
+        android:strokeLineCap="round" />
+    <path
+        android:name="metacarpal_pad"
+        android:fillColor="#FFA5A5"
+        android:pathData="M399.888,108.52C396.155,119.526 392.664,129.819 392.664,129.819C392.664,129.819 395.955,120.115 399.688,109.109C403.421,98.102 406.182,89.961 406.182,89.961C406.182,89.961 403.621,97.513 399.888,108.52Z" />
+    <path
+        android:name="digital_pad_1"
+        android:fillColor="#FFA5A5"
+        android:pathData="M406.623,86.725C405.708,89.425 405,91.512 405,91.512C405,91.512 405.742,89.323 406.658,86.623C407.573,83.924 408.315,81.735 408.315,81.735C408.316,81.735 407.539,84.025 406.623,86.725Z" />
+    <path
+        android:name="digital_pad_2"
+        android:fillColor="#FFA5A5"
+        android:pathData="M389.535,129.988C388.619,132.687 388,134.511 388,134.511C388,134.511 388.742,132.323 389.658,129.623C390.574,126.923 391.316,124.735 391.316,124.735C391.316,124.735 390.45,127.288 389.535,129.988Z" />
+    <path
+        android:name="digital_pad_3"
+        android:fillColor="#FFA5A5"
+        android:pathData="M400.919,100.357C399.862,103.472 399,106.016 399,106.016C399,106.016 399.856,103.49 400.913,100.375C401.969,97.26 402.826,94.735 402.826,94.735C402.826,94.735 401.975,97.242 400.919,100.357Z" />
+    <path
+        android:name="digital_pad_4"
+        android:fillColor="#FFA5A5"
+        android:pathData="M395.042,113.993C393.986,117.108 393,120.016 393,120.016C393,120.016 393.856,117.491 394.913,114.375C395.969,111.26 396.826,108.735 396.826,108.735C396.826,108.735 396.099,110.878 395.042,113.993Z" />
+</vector>
