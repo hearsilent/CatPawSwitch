@@ -1,6 +1,6 @@
 # CatPawSwitch
 [![JitPack](https://jitpack.io/v/hearsilent/CatPawSwitch.svg)](https://jitpack.io/#hearsilent/CatPawSwitch)
-[![license](https://img.shields.io/github/license/hearsilent/CatPawSwitch.svg)](https://github.com/hearsilent/CatPawSwitch/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/hearsilent/CatPawSwitch.svg)](LICENSE)
 
 A `MaterialSwitch` that proactively tries to turn itself off using a cat's paw animation.
 
