@@ -1,11 +1,14 @@
 # CatPawSwitch
+[![JitPack](https://jitpack.io/v/hearsilent/CatPawSwitch.svg)](https://jitpack.io/#hearsilent/CatPawSwitch)
+[![license](https://img.shields.io/github/license/hearsilent/CatPawSwitch.svg)](https://github.com/hearsilent/CatPawSwitch/blob/master/LICENSE)
 
 A `MaterialSwitch` that proactively tries to turn itself off using a cat's paw animation.
 
-### Minimum SDK
-*   Android SDK 24 (Android 7.0)
+## Screenshot
 
-### Usage
+https://github.com/user-attachments/assets/8782c310-8ec7-47f6-bf52-c4c4eaec0519
+
+## Usage
 
 Add the `CatPawSwitch` to your layout:
 
@@ -39,7 +42,7 @@ binding.catPawSwitch.apply {
 }
 ```
 
-### Dependency
+## Dependency
 
 1. Add the JitPack repository to your `settings.gradle.kts`:
 
@@ -62,8 +65,11 @@ dependencies {
 }
 ```
 
-### Inspiration
+## Minimum SDK
+*   Android SDK 24 (Android 7.0)
+
+## Inspiration
 This project was inspired by the [Proactive Toggle](https://chillcomponent.codlin.me/components/toggle-proactive/) by Cod Lin.
 
-### License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
