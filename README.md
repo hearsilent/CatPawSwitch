@@ -6,7 +6,7 @@ A `MaterialSwitch` that proactively tries to turn itself off using a cat's paw a
 
 ## Screenshot
 
-https://github.com/user-attachments/assets/8782c310-8ec7-47f6-bf52-c4c4eaec0519
+https://github.com/user-attachments/assets/daf9e893-088e-4b8a-acc9-6855332b7c8c
 
 ## Usage
 
