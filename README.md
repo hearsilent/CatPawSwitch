@@ -69,7 +69,7 @@ dependencies {
 *   Android SDK 24 (Android 7.0)
 
 ## Inspiration
-This project was inspired by the [Proactive Toggle](https://chillcomponent.codlin.me/components/toggle-proactive/) by Cod Lin.
+This project was inspired by the [Proactive Toggle](https://chillcomponent.codlin.me/components/toggle-proactive/) by [Cod Lin](https://github.com/Codfisher).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
